@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="findSetContentView:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/findSetContentView_jar</output-path>
+    <root id="archive" name="findSetContentView.jar">
+      <element id="module-output" name="findSetContentView" />
+    </root>
+  </artifact>
+</component>
